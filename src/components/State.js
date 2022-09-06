@@ -34,4 +34,4 @@ function StateDetails(props) {
   );
 }
 
-export { StateDetails };    );
+export { StateDetails };
