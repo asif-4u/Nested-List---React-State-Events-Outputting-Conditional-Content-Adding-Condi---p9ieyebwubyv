@@ -13,7 +13,7 @@ function StateDetails(props) {
           cityId={citiId}
           key={citiId}
         />
-  
+      );
     });
   }
 
